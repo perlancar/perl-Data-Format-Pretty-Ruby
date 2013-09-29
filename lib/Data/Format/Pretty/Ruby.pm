@@ -1,6 +1,6 @@
 package Data::Format::Pretty::Ruby;
 
-use 5.010;
+use 5.010001;
 use strict;
 use warnings;
 
@@ -54,4 +54,3 @@ options.
 L<Data::Format::Pretty>
 
 =cut
-
